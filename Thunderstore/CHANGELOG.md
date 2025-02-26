@@ -1,3 +1,6 @@
+**1.3.1**
+- Fixed thunderstore packaging
+
 **1.3.0**
 - Updated for Seekers of the Storm
 

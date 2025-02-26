@@ -20,7 +20,7 @@ namespace MercenaryTweaks
         public const string PluginGUID = PluginAuthor + "." + PluginName;
         public const string PluginAuthor = "codedly";
         public const string PluginName = "MercenaryTweaks";
-        public const string PluginVersion = "1.3.0";
+        public const string PluginVersion = "1.3.1";
 
         public static ConfigEntry<bool> M1AttackSpeedFix { get; set; }
         public static ConfigEntry<bool> M2AttackSpeedIgnore { get; set; }
