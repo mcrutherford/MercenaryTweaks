@@ -1,4 +1,4 @@
-﻿**1.3.0**
+**1.3.0**
 - Updated for Seekers of the Storm
 
 **1.2.6**

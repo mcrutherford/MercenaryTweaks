@@ -1,4 +1,4 @@
-﻿# Overview
+# Overview
 
 Adds a variety of toggleable Mercenary tweaks
 
